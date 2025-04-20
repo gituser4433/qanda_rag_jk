@@ -1,0 +1,2 @@
+OPENAI_API_KEY=**-proj-*******
+DATABASE_URL=postgresql+asyncpg://postgres:Samp%401234@db.aqajhauxjqyrxeadbmzz.supabase.co:5432/postgres
